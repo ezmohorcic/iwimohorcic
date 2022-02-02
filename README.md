@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/iwimohorcic](https://github.com/iwimohorcic)
 
-- 💬 Ask me about **Job oportunities**
-
 - 📫 How to reach me **ezmohorcic@gmail.com**
 
 - ⚡ Fun fact **I've DM'd a 300+ hours campaing in DnD**
